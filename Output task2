@@ -1,0 +1,17 @@
+OUTPUT:
+
+Sample Input Data (data.csv)
+Category,Value
+A,100
+B,200
+C,150
+D,180
+E,220
+
+Expected Output (report.pdf)
+Automated Data Analysis Report
+
+Total Entries: 5
+Average Value: 170.0
+Max Value: 220
+Min Value: 100
